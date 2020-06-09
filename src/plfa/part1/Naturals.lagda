@@ -81,7 +81,7 @@ successor of two; and so on.
 Write out `7` in longhand.
 
 \begin{code}
--- Your code goes here
+seven = suc (suc (suc (suc (suc (suc (suc zero))))))
 \end{code}
 
 
